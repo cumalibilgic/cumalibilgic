@@ -1,16 +1,13 @@
-## Hi there 👋
+# YMT1105 Vize Ödevi – 5 Programlama Sorusu Çözümü
 
-<!--
-**cumalibilgic/cumalibilgic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba, bu repo YMT1105 Yazılım Mühendisliği dersi için hazırladığım vize ödevi kapsamındaki 5 programlama sorusunun çözümlerine ait videoları içerir.
 
-Here are some ideas to get you started:
+## YouTube Videoları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Problem 1 - Sayı Durumu](https://www.youtube.com/watch?v=c18UIlVcf4Q)
+2. [Problem 2 - Toplam Bulma](https://www.youtube.com/watch?v=_h5yo9g8Kvw)
+3. [Problem 3 - Faktöriyel](https://www.youtube.com/watch?v=b0jrUqVA01g)
+4. [Problem 4 - Karakter Sayısı]()
+5. [Problem 5 - Çift Mi Tek Mi]()
+
+
