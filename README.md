@@ -28,10 +28,3 @@ Python ile geliştirilmiş görev yönetim uygulaması.
 
 ### 🗂️ [Mini Projeler](https://github.com/cumalibilgic/mini-projeler)
 Python ile geliştirdiğim küçük çaplı projeler koleksiyonu.
-
----
-
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cumalibilgic&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumalibilgic&layout=compact&theme=dark&hide_border=true)
