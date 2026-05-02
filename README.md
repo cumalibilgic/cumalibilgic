@@ -1,16 +1,23 @@
-# Selam, Ben Cumali! 👋
+# Selam, ben Cumali! 👋
 
-Yazılım dünyasına adım atan, öğrenmeye ve problem çözmeye tutkulu bir geliştirici adayıyım. İlk projem olan **Sağlıkta Yapay Zeka Tanı Sistemi**'ni hayata geçirerek bu serüvene giriş yaptım. 🚀
+### 👨‍💻 Hakkımda
+Ben, sağlık teknolojileri ve yapay zeka dünyasına meraklı, Python ile çözümler üretmeyi seven bir yazılımcı adayıyım. Kod yazarken sadece problem çözmeyi değil, aynı zamanda etkili ve sürdürülebilir sistemler kurmayı hedefliyorum.
 
-### 👨‍💻 Neler Yapıyorum?
-- 🔭 Şu anda **Python ve Yapay Zeka** entegrasyonları üzerine çalışıyorum.
-- 🌱 Veritabanları (PostgreSQL) ve sunucu altyapıları hakkında kendimi geliştiriyorum.
-- 🎯 Hedefim: Gerçek dünya problemlerini çözen projeler kodlamak ve GitHub vitrinimi bunlarla doldurmak.
+- 🩺 **İlgi Alanları:** Sağlıkta Yapay Zeka, Veri Analizi, PostgreSQL
+- 🚀 **Şu an ne yapıyorum:** Python ile mini projeler geliştirerek portfolyomu güçlendiriyorum.
+- 🌱 **Öğrendiklerim:** Python, Git/GitHub, Veritabanı Yönetimi
 
-### 🛠️ Kullandığım Teknolojiler
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Teknolojiler & Araçlar
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📫 İletişim
-- **E-posta:** [Bana Yazın](mailto:cumalibilgic1@gmail.com)
+---
+
+### 📈 Projelerim
+Şu an aktif olarak geliştirdiğim ve içinde **5 farklı Python uygulaması** barındıran koleksiyonuma buradan ulaşabilirsiniz:
+👉 **[Mini Projeler Koleksiyonu](https://github.com/cumalibilgic/mini-projeler)**
+
+---
+📫 Bana ulaşmak için profilimi takip edebilir veya iletişime geçebilirsiniz!
