@@ -1,34 +1,88 @@
-# Selam, ben Cumali! 👋
+<div align="center">
 
-## 🧠 Hakkımda
-Ben, sağlık teknolojileri ve yapay zeka dünyasına meraklı, Python ve **Java** ile çözümler üretmeyi seven bir yazılımcı adayıyım. Kod yazarken sadece problem çözmek değil, aynı zamanda etkili ve sürdürülebilir sistemler kurmayı hedefliyorum.
+# 👋 Hi, I'm Cumali
 
-- 🎯 **İlgi Alanları:** Sağlıkta Yapay Zeka, Veri Analizi, Nesne Yönelimli Programlama (OOP), PostgreSQL
-- 🚀 **Şu an ne yapıyorum:** Yapay zeka temellerini (NumPy ile sinir ağları) ve Java ile OOP mantığını geliştiriyorum.
-- 📚 **Öğrendiklerim:** Python, Java, Git/GitHub, Veritabanı Yönetimi
+### Software Engineering Student
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Currently+Learning+Java;Building+One+Project+At+A+Time;Future+Backend+Developer;Always+Learning+New+Things"/>
 
-## 🛠️ Teknolojiler & Araçlar
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📂 Projelerim
+## 🚀 About Me
 
-### ⚔️ [Java OOP RPG Oyunu](https://github.com/cumalibilgic/java-oop-rpg-oyunu)
-Java'da **Nesne Yönelimli Programlama (OOP)** prensiplerini (Kalıtım ve Kompozisyon) pekiştirmek için geliştirdiğim konsol tabanlı mini rol yapma oyunu. Silah/zırh kuşanma ve dinamik hasar hesaplama (kritik vuruş) mekaniklerini içeriyor.
+I'm a Software Engineering student at **Fırat University** who enjoys learning by building real projects.
 
-### 🤖 [Yapay Zeka Projesi](https://github.com/cumalibilgic/yapay-zeka-projesi)
-Sinir ağını sıfırdan NumPy ile yazdım. Tek nörondan başlayıp katmanlı ağ, ReLU/Sigmoid aktivasyonları ve eğitim döngüsüne kadar her şeyi kütüphanesiz kodladım.
+Currently, my main focus is strengthening my programming fundamentals with **Java** and **Object-Oriented Programming**.
 
-### ✅ [Python Todo App](https://github.com/cumalibilgic/python-todo-app)
-Python ile geliştirilmiş görev yönetim uygulaması.
+I believe consistency is more valuable than speed, and every project I build is another step forward.
 
-### 🗂️ [Mini Projeler](https://github.com/cumalibilgic/mini-projeler)
-Python ile geliştirdiğim küçük çaplı projeler koleksiyonu.
+---
+
+## 🎯 Current Focus
+
+- ☕ Java
+- 🧩 Object-Oriented Programming
+- 🌱 Git & GitHub
+- 📚 Data Structures (Next Goal)
+- 🛠 Backend Development
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cumalibilgic&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumalibilgic&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cumalibilgic&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+- ✅ Master Java
+- ✅ Learn Data Structures & Algorithms
+- ✅ Learn SQL
+- ✅ Build Backend Projects
+- ✅ Learn Spring Boot
+- ✅ Become Internship Ready
+
+---
+
+## 💡 Philosophy
+
+> **Learning deeply. Building patiently. Improving every day.**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 💙
+
+*"This profile grows together with my software engineering journey."*
+
+</div>
