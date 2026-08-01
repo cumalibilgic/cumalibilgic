@@ -1,96 +1,70 @@
 <div align="center">
 
-# 👋 Hi, I'm Cumali
+# Hi, I'm Cumali 👋
 
 ### Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+Learning+Java;Building+One+Project+At+A+Time;Future+Backend+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Currently+Learning+Java;Building+One+Project+At+A+Time;Always+Learning"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Software Engineering student who enjoys building real projects while learning.
+I'm a Software Engineering student from Türkiye.
 
-Currently, I'm focused on strengthening my programming fundamentals with **Java** and **Object-Oriented Programming**.
+Currently learning **Java** and improving my programming fundamentals by building projects.
 
-Every project I build is another step toward becoming a better software engineer.
+I believe that consistency and practice are the keys to becoming a better software engineer.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - ☕ Java
 - 🧩 Object-Oriented Programming
-- 🌿 Git & GitHub
-- 📚 Data Structures (Next)
+- 📚 Data Structures *(next step)*
 - 🚀 Backend Development
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cumalibilgic&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cumalibilgic&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumalibilgic&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumalibilgic&layout=compact&theme=transparent&hide_border=true"/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cumalibilgic&theme=github-dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🎯 Current Goals
+## Goals
 
-- ✅ Master Java
-- ✅ Learn Data Structures & Algorithms
-- ✅ Learn SQL
-- ✅ Build Backend Projects
-- ✅ Learn Spring Boot
-- ✅ Become Internship Ready
-
----
-
-## 📚 Currently Reading
-
-- Software Engineering
-- Programming Books
-- Computer Science Fundamentals
-
----
-
-## 💡 Philosophy
-
-> **Always learning. Always building. Always improving.**
+- Master Java
+- Learn Data Structures & Algorithms
+- Learn SQL
+- Learn Spring Boot
+- Build Real Projects
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 💙
-
-*"Building a strong foundation, one project at a time."*
+> **Building a strong foundation, one project at a time.**
 
 </div>
