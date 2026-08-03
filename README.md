@@ -1,70 +1,21 @@
-<div align="center">
-
-# Hi, I'm Cumali 👋
-
-### Software Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Currently+Learning+Java;Building+One+Project+At+A+Time;Always+Learning"/>
-
-</div>
-
----
-
-## About Me
-
-I'm a Software Engineering student from Türkiye.
-
-Currently learning **Java** and improving my programming fundamentals by building projects.
-
-I believe that consistency and practice are the keys to becoming a better software engineer.
-
----
-
-## Current Focus
-
-- ☕ Java
-- 🧩 Object-Oriented Programming
-- 📚 Data Structures *(next step)*
-- 🚀 Backend Development
-
----
-
-## Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Cumali&fontSize=42&fontColor=00ffcc&fontAlignY=40&animation=twinkling&fontAlign=50&desc=Software%20Engineering%20Student&descAlignY=60&descSize=18&descAlign=50" width="100%"/>
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+from+scratch+with+solid+foundations+%F0%9F%8C%B1;Still+learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-🌱-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cumalibilgic&show_icons=true&theme=transparent&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumalibilgic&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Goals
-
-- Master Java
-- Learn Data Structures & Algorithms
-- Learn SQL
-- Learn Spring Boot
-- Build Real Projects
-
----
-
-<div align="center">
-
-> **Building a strong foundation, one project at a time.**
-
-</div>
+<p align="center">💬 Currently at the foundation-building stage — this profile will grow along the way.</p>
