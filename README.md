@@ -1,21 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Cumali&fontSize=42&fontColor=00ffcc&fontAlignY=40&animation=twinkling&fontAlign=50&desc=Software%20Engineering%20Student&descAlignY=60&descSize=18&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Cumali%20Bilgi%C3%A7&fontSize=40&fontColor=00ffcc&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+from+scratch+with+solid+foundations+%F0%9F%8C%B1;Still+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00FFCC&center=true&vCenter=true&width=460&lines=Building+from+scratch+with+solid+foundations;Games+with+Unity+%26+Python;Databases+with+PostgreSQL+%26+Docker" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-🌱-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-0f2027?style=flat-square&logo=dotnet&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/Java-0f2027?style=flat-square&logo=openjdk&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/Unity-0f2027?style=flat-square&logo=unity&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/Docker-0f2027?style=flat-square&logo=docker&logoColor=00ffcc" />
 </p>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cumalibilgic/cumalibilgic/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/cumalibilgic/cumalibilgic/output/github-snake.svg" alt="snake animation" />
+  </picture>
 </p>
 
-<p align="center">💬 Currently at the foundation-building stage — this profile will grow along the way.</p>
+<p align="center"><sub>Still at the foundation stage — this profile grows along the way.</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" width="100%"/>
