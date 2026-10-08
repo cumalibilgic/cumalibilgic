@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00FFCC&center=true&vCenter=true&width=460&lines=Building+from+scratch+with+solid+foundations;Games+with+Unity+%26+Python;Databases+with+PostgreSQL+%26+Docker" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-0f2027?style=flat-square&logo=dotnet&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Java-0f2027?style=flat-square&logo=openjdk&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Unity-0f2027?style=flat-square&logo=unity&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/Docker-0f2027?style=flat-square&logo=docker&logoColor=00ffcc" />
-</p>
-
 <br/>
 
 <p align="center">
